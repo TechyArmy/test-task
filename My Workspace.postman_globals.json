@@ -1,0 +1,14 @@
+{
+	"id": "9e683e26-e294-4793-8c54-adfc40493a6b",
+	"values": [
+		{
+			"key": "url",
+			"value": " https://jsonplaceholder.typicode.com",
+			"enabled": true
+		}
+	],
+	"name": "My Workspace Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2021-07-10T02:52:06.422Z",
+	"_postman_exported_using": "Postman/8.7.0"
+}
